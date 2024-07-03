@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abinav</h1>
 <h3 align="center">A undergraduate student who loves building stuff</h3>
 
-- 🌱 I’m currently learning **Backend and Algorithms**
+- 🌱 I’m currently learning **Backend and Algorithms **
 
-- 👯 I’m looking to collaborate on **Web and Flutter Projects**
+- 👯 I’m looking to collaborate on **Web Projects**
 
-- 🤝 I’m looking for help with **Blockchain and Web3**
+- 🤝 I’m looking for help with **Blockchain, Web3 and Flutter**
 
 - 💬 Ask me about **Python, Frontend, Editing and Football**
 
