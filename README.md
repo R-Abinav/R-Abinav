@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abinav</h1>
 <h3 align="center">A undergraduate student who loves building stuff</h3>
 
-- 🌱 I’m currently learning **Backend and Algorithms **
+- 🌱 I’m currently learning **Backend and Algorithms**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
