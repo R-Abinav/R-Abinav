@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Backend, Algorithms and Machine Learning (ML)**
 
-- 👯 I’m looking to collaborate on **Web and Flutter Projects**
+- 👯 I’m looking to collaborate on **Web and Web3 Projects**
 
-- 🤝 I’m looking for help with **Blockchain and Web3**
+- 🤝 I’m looking for help with **Blockchain and Android App Development**
 
 - 💬 Ask me about **Python, Frontend, Video-Editing and Football**
 
