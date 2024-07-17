@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-abinav&label=Profile%20views&color=0e75b6&style=flat" alt="r-abinav" /> </p>
 
-- 🌱 I’m currently learning **Backend and Algorithms**
+- 🌱 I’m currently learning **Backend, Algorithms and Machine Learning (ML)**
 
 - 👯 I’m looking to collaborate on **Web and Flutter Projects**
 
 - 🤝 I’m looking for help with **Blockchain and Web3**
 
-- 💬 Ask me about **Python, Frontend, Editing and Football**
+- 💬 Ask me about **Python, Frontend, Video-Editing and Football**
 
 - 📫 How to reach me **r.abinav1712@gmail.com**
 
