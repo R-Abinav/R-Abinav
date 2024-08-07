@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinav</h1>
-<h3 align="center">An undergrad student who loves building stuff</h3>
+<h3 align="center">A undergraduate student who loves building stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-abinav&label=Profile%20views&color=0e75b6&style=flat" alt="r-abinav" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web and Web3 Projects**
 
-- 🤝 I’m looking for help with **Blockchain, Web3 And Flutter**
+- 🤝 I’m looking for help with **Rust, Web3 and Flutter**
 
 - 💬 Ask me about **Python, Frontend, Video-Editing and Football**
 
