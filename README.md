@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Rust, Web3 and Flutter**
 
-- 💬 Ask me about **Python, Frontend, Video-Editing and Football**
+- 💬 Ask me about **Python, Full Stack, Video-Editing and Football**
 
 - 📫 How to reach me **r.abinav1712@gmail.com**
 
