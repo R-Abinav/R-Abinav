@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-abinav&show_icons=true&locale=en" alt="r-abinav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-abinav&" alt="r-abinav" /></p>
+
+![Snake animation](https://github.com/abhishekmj303/abhishekmj303/blob/output/github-contribution-grid-snake-dark.svg)
