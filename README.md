@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust and CUDA**
 
-- 👯 I’m looking to collaborate on **Web, Web3 and Robotics ** projects
+- 👯 I’m looking to collaborate on **Web, Web3 and Robotics** projects
 
 - 🤝 I’m looking for help with **High Performance Computing, Quantum Computing and Compilers**
 
