@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-abinav&label=Profile%20views&color=0e75b6&style=flat" alt="r-abinav" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Algorithms and Flutter**
+- 🌱 I’m currently learning **Rust and CUDA**
 
-- 👯 I’m looking to collaborate on **Web and Web3 Projects**
+- 👯 I’m looking to collaborate on **Web, Web3 and Robotics ** projects
 
-- 🤝 I’m looking for help with **Rust, Web3 and Flutter**
+- 🤝 I’m looking for help with **High Performance Computing, Quantum Computing and Compilers**
 
-- 💬 Ask me about **C/C++, Full Stack, Video-Editing and Football**
+- 💬 Ask me about **C/C++, Full Stack, Robotics and Football**
 
-- 📫 How to reach me **r.abinav1712@gmail.com**
+- 📫 How to reach me **r.invictus1712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
