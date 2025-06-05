@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with **High Performance Computing, Quantum Computing and Compilers**
 
-- 💬 Ask me about **C/C++, Full Stack, Robotics and Football**
+- 💬 Ask me about **C/C++, Robotics and Backed**
+
+- 🥸 Fun Fact: I play **Football** and **Badminton**
 
 - 📫 How to reach me **r.invictus1712@gmail.com**
 
