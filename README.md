@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-abinav&label=Profile%20views&color=0e75b6&style=flat" alt="r-abinav" /> </p>
 
-- 🌱 I’m currently learning **GO and CUDA**
+- 🌱 I’m currently learning **Rust and CUDA**
 
 - 👯 I’m looking to collaborate on **Web, Web3 and Robotics** projects
 
