@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C/C++, Software Robotics and Backend Systems**
 
-- 🥸 Fun Fact: I play **Football** and **Badminton**
+- 🥸 Other stuff: I play **Football** and **Badminton**
   
-- 😛 Goofy Fact: I try to use **Vim** as my primary code editor 
+- 😛 Fun Fact: I try to use **Vim** as my primary code editor 
 
 - 📫 How to reach me **r.invictus1712@gmail.com**
 
