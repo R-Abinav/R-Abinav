@@ -9,9 +9,11 @@
 
 - 🤝 I’m looking for help with **High Performance Computing, Quantum Computing and Compilers**
 
-- 💬 Ask me about **C/C++, Robotics and Backend**
+- 💬 Ask me about **C/C++, Software Robotics and Backend Systems**
 
 - 🥸 Fun Fact: I play **Football** and **Badminton**
+  
+- 😛 Goofy Fact: I try to use **Vim** as my primary code editor 
 
 - 📫 How to reach me **r.invictus1712@gmail.com**
 
