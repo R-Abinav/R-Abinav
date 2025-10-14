@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Rust** and exploring **CUDA**
 
-- 👯 I’m looking to collaborate on **Web, Web3 and Robotics** projects
+- 👯 I’m looking to collaborate on **Web and Web3** projects
 
-- 🤝 I’m looking for help with **High Performance Computing, Quantum Computing and Compilers**
+- 🤝 I’m looking for help with **DeFi and Solana Dev**
 
-- 💬 Ask me about **C/C++, Software Robotics and Backend Systems**
+- 💬 Ask me about **C/C++, Backend Systems and Robotics**
 
 - 🥸 Other stuff: I play **Football** and **Badminton**
   
