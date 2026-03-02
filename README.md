@@ -1,17 +1,19 @@
-<h1 align="center">Ayo 👋, I'm Abinav</h1>
+<h1 align="center">Hello 👋, I'm Abinav</h1>
 <h3 align="center">Under Grad who tries to build goofy stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-abinav&label=Profile%20views&color=0e75b6&style=flat" alt="r-abinav" /> </p>
 
-- 🌱 I’m currently learning **Rust** and exploring **CUDA**
+- 🌱 I’m currently learning **Rust** and **Solana**
 
-- 👯 I’m looking to collaborate on **Web and Web3** projects
+- 👯 I’m looking to collaborate on **Web3** projects
 
-- 🤝 I’m looking for help with **DeFi and Solana Dev**
+- 🤝 I’m looking for help with **DeFiv**
 
-- 💬 Ask me about **C/C++, Backend Systems and Robotics**
+- 💬 Ask me about **Systems and Robotics**
 
 - 🥸 Other stuff: I play **Football** and **Badminton**
+
+- 🫠 I also build stuff that runs underwater
   
 - 😛 Fun Fact: I try to use **Vim** as my primary code editor 
 
