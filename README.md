@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web3** projects
 
-- 🤝 I’m looking for help with **DeFiv**
+- 🤝 I’m looking for help with **DeFi**
 
 - 💬 Ask me about **Systems and Robotics**
 
