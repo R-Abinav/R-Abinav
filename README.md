@@ -13,7 +13,7 @@
 
 - 🥸 Other stuff: I play **Football** and **Badminton**
 
-- 🫠 I also build stuff that runs underwater
+- 🫠 I also build stuff that runs autonomously underwater
   
 - 😛 Fun Fact: I try to use **Vim** as my primary code editor 
 
