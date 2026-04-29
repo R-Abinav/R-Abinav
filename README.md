@@ -41,7 +41,7 @@ Reach me at **r.invictus1712@gmail.com**
 
 <br/>
 
-[Resume](https://drive.google.com/file/d/1h8oCiaNnUb2-kzgBlI-RsW5fSVBfwCHQ/view?usp=sharing) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@thefrsgang7691) &nbsp;&middot;&nbsp; [Twitter](https://x.com/Inv1ctus6) &nbsp;&middot;&nbsp; [Devfolio](https://devfolio.co/@AbinavRajagopal) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/abinav-rajagopal-2ba65a286/)
+[Resume](https://drive.google.com/file/d/1h8oCiaNnUb2-kzgBlI-RsW5fSVBfwCHQ/view?usp=sharing) &nbsp;&middot;&nbsp; [Tech Yt](https://www.youtube.com/@invictus-all-Ls) &nbsp;&middot;&nbsp; [Gaming Yt](https://www.youtube.com/@thefrsgang7691) &nbsp;&middot;&nbsp; [Twitter](https://x.com/Inv1ctus6) &nbsp;&middot;&nbsp; [Devfolio](https://devfolio.co/@AbinavRajagopal) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/abinav-rajagopal-2ba65a286/)
 
 <br/>
 
