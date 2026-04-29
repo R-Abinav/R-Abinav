@@ -17,7 +17,7 @@
 
 <br/>
 
-### Currently
+# Currently
 
 Building on **Solana**
 
