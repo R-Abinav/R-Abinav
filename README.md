@@ -4,7 +4,7 @@
 
 # Abinav Rajagopal
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=30&pause=800&color=888888&center=true&vCenter=true&width=600&lines=Bullish+on+Solana.;Blockchain+Dev.;Love+Being+Close+to+the+Metal.;;Under+Grad+at+IIITDM+Chennai.;Mechanical+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=30&pause=800&color=888888&center=true&vCenter=true&width=600&lines=Bullish+on+Solana.;Blockchain+Dev.;Built+Stuff+That+Runs+Underwater.;Love+Being+Close+to+the+Metal.;Love+Robotics;Under+Grad+at+IIITDM+Chennai.;Mechanical+Engineer.)](https://git.io/typing-svg)
 
 ---
 
