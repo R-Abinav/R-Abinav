@@ -31,7 +31,7 @@ Reach me at **r.invictus1712@gmail.com**
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=r-abinav&show_icons=true&hide_border=true&count_private=true&theme=graywhite&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff" />
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r-abinav&show_icons=true&hide_border=true&count_private=true&theme=graywhite&title_color=111111&text_color=555555&icon_color=111111&bg_color=ffffff" /> -->
 &nbsp;&nbsp;
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=r-abinav&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=555555&currStreakNum=111111&sideNums=111111" />
 
