@@ -19,8 +19,8 @@
 
 # Currently
 
-Building on **Solana**
-Looking to collaborate on all things **on chain**.
+Building and shipping.  
+Open to collaborate on products.  
 Reach me at **r.invictus1712@gmail.com**
 
 <br/>
