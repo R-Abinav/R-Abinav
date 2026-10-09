@@ -8,10 +8,8 @@
 ---
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Solidity](https://img.shields.io/badge/Solidity-1a1a1a?style=for-the-badge&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ---
 
